@@ -1,6 +1,6 @@
 <h1>Incident Handler's Journal</h1>
 
-<I>There are 5 entries in the incident handler's journal. The following are the fictional scenarios for each incident:</I>
+<I>There are 4 entries in the incident handler's journal. The following are the fictional scenarios for each incident:</I>
 
 <h3>Scenario 1</h3>
 A small U.S. health care clinic specializing in delivering primary-care services experienced a security incident on a Tuesday morning, at approximately 9:00 a.m. Several employees reported that they were unable to use their computers to access files like medical records. Business operations shut down because employees were unable to access the files and software needed to do their job.
