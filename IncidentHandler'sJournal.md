@@ -30,6 +30,6 @@ Description	|A ransomware attack occured at a small U.S. health care clinic, whi
 |Date: October 21, 2024	|Entry: 4|
 |:-----------------------|:--------|
 |Description|	Analyze a packet capture file.|
-|Tool(s) used	|Wireshark, a network protocol analyzer that used a graphical user interface. It allows security analyste to capture and analyze network traffic, which helps in detecting and investigating malicious activity.|
+|Tool(s) used	|Wireshark, a network protocol analyzer that used a graphical user interface. It allows security analysts to capture and analyze network traffic, which helps in detecting and investigating malicious activity.|
 |The 5 W's |	Capture the 5 W's of an incident. <ul><li><b>Who</b>: N/A </li><li><b>What</b>: N/A</li><li> <b>When</b>: N/A </li><li><b>Where</b>: N/A </li><li><b>Why</b>: N/A</li></ul>|
 |Additional notes|	Wireshark seems to be a very powerful tool to search through packet information efficiently. |
