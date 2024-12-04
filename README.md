@@ -11,6 +11,15 @@ The attackers were able to gain access into the company's network by using targe
 <br/><br/>
 Once the attackers gained access, they deployed their ransomware, which encrypted critical files. The company was unable to access critical patient data, causing major disruptions in their business operations. The company was forced to shut down their computer systems and contact several organizations to report the incident and receive technical assistance.
 
+<h3>Scenario 2</h3>
+I am a level one security operations center (SOC) analyst at a financial services company. I have received an alert about a suspicious file being downloaded on an employee's computer. 
+<br/><br/>
+I investigate this alert and discover that the employee received an email containing an attachment. The attachment was a password-protected spreadsheet file. The spreadsheet's password was provided in the email. The employee downloaded the file, then entered the password to open the file. When the employee opened the file, a malicious payload was then executed on their computer. 
+<br/><br/>
+I retrieve the malicious file and create a SHA256 hash of the file. Now that I have the file hash, I will use VirusTotal to uncover additional IoCs that are associated with the file.
+
+<h3>Scenario 3</h3>
+
 <h3>Scenario 4</h3>
 I am a security analyst investigating traffic to a website. I will analyze a network packet capture file that contains traffic data related to a user connecting to an internet site. 
 
