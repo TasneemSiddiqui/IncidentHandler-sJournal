@@ -10,5 +10,10 @@ Additionally, employees also reported that a ransom note was displayed on their 
 The attackers were able to gain access into the company's network by using targeted phishing emails, which were sent to several employees of the company. The phishing emails contained a malicious attachment that installed malware on the employee's computer once it was downloaded.
 <br/><br/>
 Once the attackers gained access, they deployed their ransomware, which encrypted critical files. The company was unable to access critical patient data, causing major disruptions in their business operations. The company was forced to shut down their computer systems and contact several organizations to report the incident and receive technical assistance.
+
+<h3>Scenario 4</h3>
+I am a security analyst investigating traffic to a website. I will analyze a network packet capture file that contains traffic data related to a user connecting to an internet site. 
+
+
 <br/><br/>
 <a href="https://github.com/TasneemSiddiqui/IncidentHandler-sJournal/blob/main/IncidentHandler'sJournal.md"><b>Incident handler's journal</b></a></h3>
