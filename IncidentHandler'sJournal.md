@@ -1,4 +1,4 @@
-<h1>Incident handler's journal</h1>
+<h1>Incident Handler's Journal</h1>
 
 |Date: October 6, 2024	|Entry: 1|
 |:-----------------------|:--------|
